@@ -1,3 +1,43 @@
+/* body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 10px;
+}
+
+.title {
+  background: #e3f4ff;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.content {
+  background: #e3f4ff;
+  padding: 10px;
+}
+
+.button-container {
+  background: #e3f4ff;
+  padding: 30px;
+  font-size: 16px;
+  text-align: center;
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+  display: block;
+  padding-left: 50px;
+} */ 
+ /* 前面試做 */
+
+/* 正確答案 */
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -7,21 +47,33 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title {
   background: #e3f4ff;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  padding: 10px;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: auto;
+  padding: 8px 24px;
 }
